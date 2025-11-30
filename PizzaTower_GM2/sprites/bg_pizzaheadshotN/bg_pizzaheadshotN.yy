@@ -134,7 +134,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizzahead Beatdown",
-    "path": "folders/Sprites/Cutscenes/Pizzahead Beatdown.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Spawns",
-    "path": "folders/Sprites/Room Structure/Warps/Spawns.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

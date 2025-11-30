@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Meteor",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Meteor.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

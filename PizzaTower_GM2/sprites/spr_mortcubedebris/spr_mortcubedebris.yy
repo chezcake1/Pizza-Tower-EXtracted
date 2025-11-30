@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Mort Cube",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Mort Cube.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

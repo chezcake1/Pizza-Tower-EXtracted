@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Bucket",
-    "path": "folders/Sprites/Room Structure/Level Structure/Bucket.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

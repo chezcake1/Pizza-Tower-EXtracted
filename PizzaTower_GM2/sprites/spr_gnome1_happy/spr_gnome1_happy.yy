@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Customers",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Gnome Pizza/Customers.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

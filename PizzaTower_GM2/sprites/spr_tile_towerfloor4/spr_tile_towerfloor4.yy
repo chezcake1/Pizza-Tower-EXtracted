@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Floor 4",
-    "path": "folders/Sprites/World/Floor 4.yy",
+    "path": "folders/Sprites/Level assets/Floor 4.yy",
   },
 }

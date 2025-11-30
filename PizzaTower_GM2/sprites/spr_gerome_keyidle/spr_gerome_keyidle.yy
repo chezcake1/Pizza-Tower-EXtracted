@@ -102,7 +102,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Gerome",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gerome.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

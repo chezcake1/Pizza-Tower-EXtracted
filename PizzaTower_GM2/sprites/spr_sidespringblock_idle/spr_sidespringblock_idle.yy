@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Side Spring",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Side Spring.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

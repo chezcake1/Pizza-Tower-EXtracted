@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pineapple",
-    "path": "folders/Sprites/Room Structure/Level Structure/Toppins/Pineapple.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sir Nose",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Sir Nose.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

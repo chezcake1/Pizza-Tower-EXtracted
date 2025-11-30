@@ -94,6 +94,6 @@
   },
   "parent": {
     "name": "Unused",
-    "path": "folders/Sprites/Unused.yy",
+    "path": "folders/Sprites/Level assets/Floor 3/Crust Cove/Unused.yy",
   },
 }

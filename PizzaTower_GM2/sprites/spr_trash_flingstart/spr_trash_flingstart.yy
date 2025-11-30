@@ -118,7 +118,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Trash Lid",
-    "path": "folders/Sprites/Room Structure/Level Structure/Trash Lid.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

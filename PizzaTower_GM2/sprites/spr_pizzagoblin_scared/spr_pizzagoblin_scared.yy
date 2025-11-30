@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizza Goblin",
-    "path": "folders/Sprites/Baddies/Pizza Goblin.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

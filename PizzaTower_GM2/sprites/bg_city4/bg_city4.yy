@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Fake Peppino Boss",
-    "path": "folders/Sprites/World/Floor 4/Fake Peppino Boss.yy",
+    "name": "Unused",
+    "path": "folders/Sprites/Level assets/Floor 4/The Pig City/Unused.yy",
   },
 }

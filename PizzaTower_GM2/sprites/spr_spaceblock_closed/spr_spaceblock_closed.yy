@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Switchblock",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Switchblock.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

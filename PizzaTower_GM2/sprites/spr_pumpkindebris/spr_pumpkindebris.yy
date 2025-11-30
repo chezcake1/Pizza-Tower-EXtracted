@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pumpkin",
-    "path": "folders/Sprites/Room Structure/Level Structure/Pumpkin.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

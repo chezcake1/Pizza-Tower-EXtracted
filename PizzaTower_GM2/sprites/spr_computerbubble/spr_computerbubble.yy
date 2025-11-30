@@ -95,7 +95,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "HUB",
-    "path": "folders/Sprites/HUD/HUB.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

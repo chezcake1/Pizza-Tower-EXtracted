@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Crust Cove",
-    "path": "folders/Sprites/World/Floor 3/Crust Cove.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Vigilante Boss",
-    "path": "folders/Sprites/World/Floor 2/Vigilante Boss.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

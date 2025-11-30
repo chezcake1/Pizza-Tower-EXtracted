@@ -106,7 +106,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Expressions",
-    "path": "folders/Sprites/HUD/TV/Noise/Expressions.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

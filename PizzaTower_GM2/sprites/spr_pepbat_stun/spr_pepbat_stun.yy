@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pepperoni Bat",
-    "path": "folders/Sprites/Baddies/Pepperoni Bat.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

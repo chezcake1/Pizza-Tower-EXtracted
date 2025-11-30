@@ -93,7 +93,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Patterns",
-    "path": "folders/Sprites/Player/Peppino/Patterns.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

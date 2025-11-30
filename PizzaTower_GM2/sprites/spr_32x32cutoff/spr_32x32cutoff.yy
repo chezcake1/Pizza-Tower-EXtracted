@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Cutoff",
-    "path": "folders/Sprites/Room Structure/Cutoff.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

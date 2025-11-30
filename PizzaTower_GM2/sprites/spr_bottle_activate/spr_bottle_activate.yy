@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Super Spring",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Super Spring.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

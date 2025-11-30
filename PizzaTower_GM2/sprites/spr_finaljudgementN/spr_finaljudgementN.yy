@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Noise",
-    "path": "folders/Sprites/Cutscenes/Final Judgement/Noise.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

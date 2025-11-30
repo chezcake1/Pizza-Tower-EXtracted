@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pepperman Boss",
-    "path": "folders/Sprites/World/Floor 1/Pepperman Boss.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

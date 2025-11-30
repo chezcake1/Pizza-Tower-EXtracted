@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Ending",
-    "path": "folders/Sprites/Cutscenes/Ending.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

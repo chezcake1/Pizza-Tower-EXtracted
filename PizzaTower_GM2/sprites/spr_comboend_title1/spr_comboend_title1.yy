@@ -130,7 +130,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Combo Title",
-    "path": "folders/Sprites/HUD/Combo Title.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

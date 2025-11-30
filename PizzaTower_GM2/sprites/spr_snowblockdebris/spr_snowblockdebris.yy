@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "R-R-Freezerator",
-    "path": "folders/Sprites/World/Floor 4/R-R-Freezerator.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

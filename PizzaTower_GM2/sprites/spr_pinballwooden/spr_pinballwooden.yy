@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Fast Food Saloon",
-    "path": "folders/Sprites/World/Floor 2/Fast Food Saloon.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

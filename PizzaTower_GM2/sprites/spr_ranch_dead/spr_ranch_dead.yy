@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Ranch Shooter",
-    "path": "folders/Sprites/Baddies/Ranch Shooter.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

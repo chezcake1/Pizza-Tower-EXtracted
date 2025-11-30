@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Floor 5",
-    "path": "folders/Sprites/World/Floor 5.yy",
+    "name": "Mansion",
+    "path": "folders/Sprites/Unused/Level assets/Mansion.yy",
   },
 }

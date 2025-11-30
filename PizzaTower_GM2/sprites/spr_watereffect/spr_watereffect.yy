@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Water",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Water.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

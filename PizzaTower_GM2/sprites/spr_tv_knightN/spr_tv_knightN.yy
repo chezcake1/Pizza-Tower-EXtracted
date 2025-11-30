@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Transformations",
-    "path": "folders/Sprites/HUD/TV/Noise/Transformations.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

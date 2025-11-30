@@ -84,7 +84,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Cheese Block",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Cheese Block.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

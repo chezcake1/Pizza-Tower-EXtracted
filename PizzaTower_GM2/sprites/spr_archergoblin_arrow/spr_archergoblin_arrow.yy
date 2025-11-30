@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Archer Goblin",
-    "path": "folders/Sprites/Baddies/Archer Goblin.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

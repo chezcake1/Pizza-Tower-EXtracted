@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Teleporter",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Teleporter.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

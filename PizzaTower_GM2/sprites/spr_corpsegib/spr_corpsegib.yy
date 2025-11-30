@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Corpse Surfing",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Corpse Surfing.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

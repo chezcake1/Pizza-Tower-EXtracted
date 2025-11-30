@@ -90,7 +90,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "GOLF",
-    "path": "folders/Sprites/World/Floor 3/GOLF.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

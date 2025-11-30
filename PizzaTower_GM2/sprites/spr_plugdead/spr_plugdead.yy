@@ -93,7 +93,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Plug",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Plug.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

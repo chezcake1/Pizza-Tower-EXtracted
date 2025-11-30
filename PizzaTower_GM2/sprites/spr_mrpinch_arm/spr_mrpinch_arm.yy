@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Mr. Pinch",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Mr. Pinch.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

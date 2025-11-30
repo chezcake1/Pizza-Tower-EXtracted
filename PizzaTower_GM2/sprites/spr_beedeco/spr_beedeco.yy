@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Gnome Forest",
-    "path": "folders/Sprites/World/Floor 3/Gnome Forest.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

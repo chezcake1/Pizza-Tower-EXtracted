@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Grandpa",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Grandpa.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

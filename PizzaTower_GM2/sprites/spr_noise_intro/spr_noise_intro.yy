@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Noise",
-    "path": "folders/Sprites/Cutscenes/Gustavo Swap/Noise.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

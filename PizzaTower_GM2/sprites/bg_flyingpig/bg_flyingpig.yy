@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pig City",
-    "path": "folders/Sprites/World/Floor 4/Pig City.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

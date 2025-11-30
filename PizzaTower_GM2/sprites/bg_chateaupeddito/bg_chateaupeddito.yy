@@ -73,6 +73,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Pizzascare",
-    "path": "folders/Sprites/World/Floor 5/Pizzascare.yy",
+    "path": "folders/Sprites/Level assets/Floor 5/Pizzascare.yy",
   },
 }

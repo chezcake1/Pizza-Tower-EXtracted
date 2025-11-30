@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sticky Floor",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Sticky Floor.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

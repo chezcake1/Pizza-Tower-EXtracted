@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Expressions",
-    "path": "folders/Sprites/HUD/TV/Peppino/Expressions.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

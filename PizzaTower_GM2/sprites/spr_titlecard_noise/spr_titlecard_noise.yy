@@ -300,7 +300,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Titlecards",
-    "path": "folders/Sprites/Titlecards.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

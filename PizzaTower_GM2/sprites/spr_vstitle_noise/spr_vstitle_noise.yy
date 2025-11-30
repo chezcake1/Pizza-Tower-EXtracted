@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Boss Intro",
-    "path": "folders/Sprites/Cutscenes/Boss Intro.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

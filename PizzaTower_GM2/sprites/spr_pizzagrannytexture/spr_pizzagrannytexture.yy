@@ -93,7 +93,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Level List",
-    "path": "folders/Sprites/HUD/Level List.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

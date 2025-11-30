@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "File Select",
-    "path": "folders/Sprites/Menues/File Select.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

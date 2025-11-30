@@ -84,7 +84,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Timed Gate",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Timed Gate.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

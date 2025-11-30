@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Jetpack",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Jetpack.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

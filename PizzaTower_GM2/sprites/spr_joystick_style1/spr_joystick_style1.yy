@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Input Icons",
-    "path": "folders/Sprites/HUD/Input Icons.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

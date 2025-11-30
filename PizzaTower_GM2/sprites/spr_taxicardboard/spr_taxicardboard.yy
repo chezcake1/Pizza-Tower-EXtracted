@@ -90,7 +90,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Taxi",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Taxi.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

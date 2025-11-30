@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Bloodsauce Dungeon",
-    "path": "folders/Sprites/World/Floor 1/Bloodsauce Dungeon.yy",
+    "path": "folders/Sprites/Level assets/Floor 1/Bloodsauce Dungeon.yy",
   },
 }

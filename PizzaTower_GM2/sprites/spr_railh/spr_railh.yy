@@ -97,7 +97,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Conveyor Belt",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Conveyor Belt.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

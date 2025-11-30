@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Lone Brick",
-    "path": "folders/Sprites/Player/Gustavo & Brick/Lone Brick.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

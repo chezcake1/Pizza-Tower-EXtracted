@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Giant Cheeseslime",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Giant Cheeseslime.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

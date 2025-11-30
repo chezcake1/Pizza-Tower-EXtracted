@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Peppino",
-    "path": "folders/Sprites/Cutscenes/Final Judgement/Peppino.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

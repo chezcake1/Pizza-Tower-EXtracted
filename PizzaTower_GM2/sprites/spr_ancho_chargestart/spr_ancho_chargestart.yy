@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Flying Anchovi",
-    "path": "folders/Sprites/Baddies/Flying Anchovi.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

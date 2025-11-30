@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Teleporter",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Teleporter.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

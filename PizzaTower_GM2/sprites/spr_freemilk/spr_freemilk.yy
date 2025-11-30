@@ -102,7 +102,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Free Milk",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Free Milk.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

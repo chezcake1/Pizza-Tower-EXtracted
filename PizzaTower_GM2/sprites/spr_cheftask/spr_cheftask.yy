@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Cheftask",
-    "path": "folders/Sprites/HUD/Cheftask.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

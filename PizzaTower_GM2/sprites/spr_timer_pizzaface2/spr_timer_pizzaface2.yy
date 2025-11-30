@@ -80,7 +80,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Escape Timer",
-    "path": "folders/Sprites/HUD/Escape Timer.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Secret Eye",
-    "path": "folders/Sprites/Room Structure/Level Structure/Secret Eye.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

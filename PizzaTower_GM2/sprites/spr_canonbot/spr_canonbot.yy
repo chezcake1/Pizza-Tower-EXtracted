@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Canon Bot",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Canon Bot.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -140,7 +140,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Toppins",
-    "path": "folders/Sprites/Room Structure/Level Structure/Toppins.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

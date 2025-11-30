@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Big Mushroom",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Big Mushroom.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

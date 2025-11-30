@@ -92,7 +92,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sewage Pipes",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Sewage Pipes.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

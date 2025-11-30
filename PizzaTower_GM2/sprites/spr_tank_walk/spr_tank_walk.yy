@@ -111,7 +111,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Tank",
-    "path": "folders/Sprites/Baddies/Tank.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Grabby Hand",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Grabby Hand.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

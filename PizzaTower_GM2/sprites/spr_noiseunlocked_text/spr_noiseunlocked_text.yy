@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Unlock Screens",
-    "path": "folders/Sprites/Cutscenes/Unlock Screens.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

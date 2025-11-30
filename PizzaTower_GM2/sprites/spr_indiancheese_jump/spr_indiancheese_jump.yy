@@ -88,7 +88,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Indian Cheese",
-    "path": "folders/Sprites/Baddies/Indian Cheese.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

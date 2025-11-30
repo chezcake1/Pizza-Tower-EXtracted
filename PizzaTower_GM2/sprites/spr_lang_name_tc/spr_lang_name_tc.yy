@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Language",
-    "path": "folders/Sprites/Menues/Options/Language.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

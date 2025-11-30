@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Meteor",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Meteor.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

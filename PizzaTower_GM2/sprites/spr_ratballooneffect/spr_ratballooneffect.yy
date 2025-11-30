@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Rat Balloon",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Rat Balloon.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "WAR Timer",
-    "path": "folders/Sprites/HUD/WAR Timer.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

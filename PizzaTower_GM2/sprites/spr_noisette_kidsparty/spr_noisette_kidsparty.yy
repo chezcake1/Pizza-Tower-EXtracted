@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Noise Campaign",
-    "path": "folders/Sprites/Room Structure/Level Structure/Escape Pointers/Noise Campaign.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

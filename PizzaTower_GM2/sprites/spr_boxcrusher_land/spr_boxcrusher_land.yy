@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Box Crusher",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Box Crusher.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

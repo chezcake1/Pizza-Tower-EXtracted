@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Cross Priest",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Cross Priest.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

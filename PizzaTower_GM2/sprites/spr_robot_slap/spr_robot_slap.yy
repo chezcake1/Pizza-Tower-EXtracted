@@ -112,7 +112,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Peppibot",
-    "path": "folders/Sprites/Baddies/Peppibot.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

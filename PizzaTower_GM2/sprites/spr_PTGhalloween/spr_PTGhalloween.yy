@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizza Tower Guy",
-    "path": "folders/Sprites/Room Structure/Level Structure/Pizza Tower Guy.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

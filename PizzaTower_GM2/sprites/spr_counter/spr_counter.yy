@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizzamart Clerk",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Pizzamart Clerk.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

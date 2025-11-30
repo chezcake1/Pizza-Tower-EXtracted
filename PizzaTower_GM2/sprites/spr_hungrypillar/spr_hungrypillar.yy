@@ -90,7 +90,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "John Pillar",
-    "path": "folders/Sprites/Room Structure/Level Structure/John Pillar.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

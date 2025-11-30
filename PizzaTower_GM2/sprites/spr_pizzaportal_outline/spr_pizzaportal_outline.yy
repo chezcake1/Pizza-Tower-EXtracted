@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Lap Portal",
-    "path": "folders/Sprites/Room Structure/Level Structure/Lap Portal.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

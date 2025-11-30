@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Knight Sword",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Knight Sword.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

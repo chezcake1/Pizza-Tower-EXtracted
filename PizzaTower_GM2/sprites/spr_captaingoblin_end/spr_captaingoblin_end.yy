@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Captain Goblin",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Captain Goblin.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

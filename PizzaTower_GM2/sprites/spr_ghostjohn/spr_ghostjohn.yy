@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "John Ghost",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/John Ghost.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

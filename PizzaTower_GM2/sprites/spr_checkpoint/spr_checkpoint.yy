@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Checkpoint",
-    "path": "folders/Sprites/Room Structure/Level Structure/Checkpoint.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

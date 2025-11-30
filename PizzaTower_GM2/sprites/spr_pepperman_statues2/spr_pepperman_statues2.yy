@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Other",
-    "path": "folders/Sprites/Bosses/Pepperman/Other.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

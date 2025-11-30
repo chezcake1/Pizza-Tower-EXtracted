@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Mushroom",
-    "path": "folders/Sprites/Room Structure/Level Structure/Toppins/Mushroom.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

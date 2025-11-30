@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Kentukybomber",
-    "path": "folders/Sprites/Baddies/Kentukybomber.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

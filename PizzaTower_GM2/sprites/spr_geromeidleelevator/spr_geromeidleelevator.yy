@@ -102,7 +102,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Elevator",
-    "path": "folders/Sprites/Cutscenes/Elevator.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

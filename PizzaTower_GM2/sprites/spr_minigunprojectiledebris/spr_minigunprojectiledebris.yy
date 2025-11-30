@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Shotgun",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Shotgun.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

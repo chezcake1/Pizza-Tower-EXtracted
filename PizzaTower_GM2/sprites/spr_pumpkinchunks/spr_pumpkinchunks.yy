@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pumpkin",
-    "path": "folders/Sprites/Room Structure/Level Structure/Pumpkin.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

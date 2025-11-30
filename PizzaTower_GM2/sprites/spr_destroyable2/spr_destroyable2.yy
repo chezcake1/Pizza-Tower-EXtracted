@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Destroyables",
-    "path": "folders/Sprites/Room Structure/Destroyables.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

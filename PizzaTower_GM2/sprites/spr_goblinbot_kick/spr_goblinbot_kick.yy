@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Goblin Bot",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Goblin Bot.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

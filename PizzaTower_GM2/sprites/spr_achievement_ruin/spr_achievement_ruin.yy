@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Floor 1",
-    "path": "folders/Sprites/Achievements/Floor 1.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

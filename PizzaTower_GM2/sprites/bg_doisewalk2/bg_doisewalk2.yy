@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Doise Boss",
-    "path": "folders/Sprites/World/Floor 3/Doise Boss.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -82,7 +82,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Mushroom",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Toppin Monsters/Mushroom.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

@@ -114,7 +114,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Collectables",
-    "path": "folders/Sprites/Room Structure/Level Structure/Collectables.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

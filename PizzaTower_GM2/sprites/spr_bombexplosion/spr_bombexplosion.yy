@@ -125,7 +125,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Bomb",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Bomb.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

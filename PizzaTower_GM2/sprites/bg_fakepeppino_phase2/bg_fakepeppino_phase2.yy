@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Fake Peppino Boss",
-    "path": "folders/Sprites/World/Floor 4/Fake Peppino Boss.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

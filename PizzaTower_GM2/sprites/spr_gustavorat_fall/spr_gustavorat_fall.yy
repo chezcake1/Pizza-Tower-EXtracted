@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Escape Pointers",
-    "path": "folders/Sprites/Room Structure/Level Structure/Escape Pointers.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

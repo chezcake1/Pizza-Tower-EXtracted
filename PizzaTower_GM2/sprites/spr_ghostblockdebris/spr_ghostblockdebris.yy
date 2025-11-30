@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Ghost",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Ghost.yy",
+    "name": "Particles and effects",
+    "path": "folders/Sprites/Particles and effects.yy",
   },
 }

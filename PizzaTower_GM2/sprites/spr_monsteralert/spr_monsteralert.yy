@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Toppin Monsters",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Toppin Monsters.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

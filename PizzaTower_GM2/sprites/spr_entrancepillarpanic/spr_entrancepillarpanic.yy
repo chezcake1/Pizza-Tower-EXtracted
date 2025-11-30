@@ -73,6 +73,6 @@
   "nineSlice": null,
   "parent": {
     "name": "John Gutter",
-    "path": "folders/Sprites/World/Floor 1/John Gutter.yy",
+    "path": "folders/Sprites/Level assets/Floor 1/John Gutter.yy",
   },
 }

@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Options",
-    "path": "folders/Sprites/Menues/Options.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

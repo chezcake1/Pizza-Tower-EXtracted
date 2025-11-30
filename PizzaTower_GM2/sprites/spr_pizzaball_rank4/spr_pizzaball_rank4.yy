@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Greaseball Strokes",
-    "path": "folders/Sprites/HUD/Greaseball Strokes.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

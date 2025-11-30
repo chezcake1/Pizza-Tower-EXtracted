@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Stupid Rat",
-    "path": "folders/Sprites/Room Structure/Level Structure/Stupid Rat.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

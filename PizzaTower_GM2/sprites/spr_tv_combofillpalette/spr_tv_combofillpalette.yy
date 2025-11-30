@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Combobubble",
-    "path": "folders/Sprites/HUD/Combobubble.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

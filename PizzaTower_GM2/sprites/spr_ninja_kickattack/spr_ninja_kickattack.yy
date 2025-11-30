@@ -96,7 +96,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizza Ninja",
-    "path": "folders/Sprites/Baddies/Pizza Ninja.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

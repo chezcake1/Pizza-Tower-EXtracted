@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Golf Burger",
-    "path": "folders/Sprites/Baddies/Golf Burger.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

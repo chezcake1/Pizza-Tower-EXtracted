@@ -86,7 +86,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Antigravity Bubble",
-    "path": "folders/Sprites/Room Structure/Level Structure/Gimmicks/Antigravity Bubble.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

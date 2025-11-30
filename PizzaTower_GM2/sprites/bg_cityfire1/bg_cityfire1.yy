@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pig City",
-    "path": "folders/Sprites/World/Floor 4/Pig City.yy",
+    "name": "The Pig City",
+    "path": "folders/Sprites/Level assets/Floor 4/The Pig City.yy",
   },
 }

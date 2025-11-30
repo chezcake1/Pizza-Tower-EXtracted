@@ -73,6 +73,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Fun Farm",
-    "path": "folders/Sprites/World/Floor 2/Fun Farm.yy",
+    "path": "folders/Sprites/Level assets/Floor 2/Fun Farm.yy",
   },
 }
