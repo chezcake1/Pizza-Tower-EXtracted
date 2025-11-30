@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Ancient Cheese",
-    "path": "folders/Sprites/Level assets/Floor 1/Ancient Cheese.yy",
+    "name": "Unused",
+    "path": "folders/Sprites/Level assets/Floor 1/Ancient Cheese/Unused.yy",
   },
 }
