@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cowboy Tasks",
+    "path": "folders/Sprites/Unused/Demos/SAGE 2019/Cowboy Tasks.yy",
   },
 }

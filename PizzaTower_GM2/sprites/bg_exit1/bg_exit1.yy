@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "The Crumbling Tower of Pizza",
+    "path": "folders/Sprites/Level assets/Floor 5/The Crumbling Tower of Pizza.yy",
   },
 }

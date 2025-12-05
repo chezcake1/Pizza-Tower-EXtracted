@@ -138,7 +138,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Peppibot Factory",
+    "path": "folders/Sprites/Level assets/Floor 4/Peppibot Factory.yy",
   },
 }
