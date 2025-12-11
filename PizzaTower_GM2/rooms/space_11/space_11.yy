@@ -272,7 +272,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Deep Dish 9",
-    "path": "folders/Rooms/World/Floor 3/Deep Dish 9.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

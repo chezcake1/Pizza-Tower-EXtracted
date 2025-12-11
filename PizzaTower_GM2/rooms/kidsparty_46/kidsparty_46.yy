@@ -111,7 +111,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "DMAS",
-    "path": "folders/Rooms/Unused/Levels/DMAS.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

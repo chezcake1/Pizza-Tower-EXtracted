@@ -430,7 +430,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Floor 2",
-    "path": "folders/Rooms/World/Floor 2.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

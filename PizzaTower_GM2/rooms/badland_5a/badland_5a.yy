@@ -218,6 +218,6 @@
   },
   "parent": {
     "name": "Oregano Desert",
-    "path": "folders/Rooms/World/Floor 2/Oregano Desert.yy",
+    "path": "folders/Rooms/Levels/World 2/Oregano Desert.yy",
   },
 }

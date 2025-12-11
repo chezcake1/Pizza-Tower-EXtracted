@@ -78,7 +78,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Ancient Cheese",
-    "path": "folders/Rooms/World/Floor 1/Ancient Cheese.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

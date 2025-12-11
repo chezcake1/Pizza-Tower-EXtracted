@@ -134,7 +134,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "WAR",
-    "path": "folders/Rooms/World/Floor 5/WAR.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

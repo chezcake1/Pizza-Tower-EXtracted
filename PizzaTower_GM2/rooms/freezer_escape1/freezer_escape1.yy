@@ -306,7 +306,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "R-R Freezerator",
-    "path": "folders/Rooms/World/Floor 4/R-R Freezerator.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

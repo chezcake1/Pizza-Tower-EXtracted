@@ -160,7 +160,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Pizzascape",
-    "path": "folders/Rooms/World/Floor 1/Pizzascape.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

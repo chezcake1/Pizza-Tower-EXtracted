@@ -112,7 +112,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Kung Fu",
-    "path": "folders/Rooms/Unused/Levels/Kung Fu.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

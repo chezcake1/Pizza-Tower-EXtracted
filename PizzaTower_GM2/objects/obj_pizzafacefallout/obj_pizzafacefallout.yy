@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Background",
-    "path": "folders/Objects/Background.yy",
+    "name": "PizzaTower_GM2",
+    "path": "PizzaTower_GM2.yyp",
   },
 }

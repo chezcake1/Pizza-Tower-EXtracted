@@ -175,6 +175,6 @@
   },
   "parent": {
     "name": "Tutorial",
-    "path": "folders/Rooms/World/Floor 1/Tutorial.yy",
+    "path": "folders/Rooms/Tower/Tutorial.yy",
   },
 }

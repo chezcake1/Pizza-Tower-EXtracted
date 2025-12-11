@@ -190,6 +190,6 @@
   },
   "parent": {
     "name": "Noise",
-    "path": "folders/Rooms/World/Floor 1/Tutorial/Noise.yy",
+    "path": "folders/Rooms/Tower/Tutorial/Noise.yy",
   },
 }

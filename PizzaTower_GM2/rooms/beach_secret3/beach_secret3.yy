@@ -133,6 +133,6 @@
   },
   "parent": {
     "name": "Crust Cove",
-    "path": "folders/Rooms/World/Floor 3/Crust Cove.yy",
+    "path": "folders/Rooms/Levels/World 3/Crust Cove.yy",
   },
 }

@@ -417,6 +417,6 @@
   },
   "parent": {
     "name": "Bloodsauce Dungeon",
-    "path": "folders/Rooms/World/Floor 1/Bloodsauce Dungeon.yy",
+    "path": "folders/Rooms/Levels/World 1/Bloodsauce Dungeon.yy",
   },
 }

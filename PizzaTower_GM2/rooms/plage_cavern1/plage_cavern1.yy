@@ -404,7 +404,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Crust Cove",
-    "path": "folders/Rooms/World/Floor 3/Crust Cove.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

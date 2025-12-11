@@ -192,6 +192,6 @@
   },
   "parent": {
     "name": "Fun Farm",
-    "path": "folders/Rooms/World/Floor 2/Fun Farm.yy",
+    "path": "folders/Rooms/Levels/World 2/Fun Farm.yy",
   },
 }

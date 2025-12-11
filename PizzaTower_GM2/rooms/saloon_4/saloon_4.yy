@@ -517,7 +517,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Fast Food Saloon",
-    "path": "folders/Rooms/World/Floor 2/Fast Food Saloon.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

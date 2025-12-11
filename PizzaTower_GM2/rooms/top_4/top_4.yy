@@ -258,7 +258,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Top",
-    "path": "folders/Rooms/Unused/Levels/Top.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

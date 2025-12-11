@@ -218,7 +218,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Pig City",
-    "path": "folders/Rooms/World/Floor 4/Pig City.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }

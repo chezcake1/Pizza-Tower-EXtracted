@@ -303,7 +303,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Tricky Treat",
-    "path": "folders/Rooms/World/Floor 1/Tricky Treat.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
 }
