@@ -245,7 +245,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Bloodsauce Dungeon",
-    "path": "folders/Rooms/Levels/World 1/Bloodsauce Dungeon.yy",
+    "name": "Bloodsauce Dungeon (Dungeon)",
+    "path": "folders/Rooms/Levels/World 1/Bloodsauce Dungeon (Dungeon).yy",
   },
 }

@@ -265,7 +265,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Tricky Treat",
+    "path": "folders/Rooms/Levels/Tricky Treat.yy",
   },
 }

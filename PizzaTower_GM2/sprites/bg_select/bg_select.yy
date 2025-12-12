@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "SAGE 2019",
+    "path": "folders/Sprites/Unused/Demo-specific/SAGE 2019.yy",
   },
 }

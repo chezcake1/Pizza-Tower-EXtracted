@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Tricky Treat",
+    "path": "folders/Sprites/Level assets/Tricky Treat.yy",
   },
 }

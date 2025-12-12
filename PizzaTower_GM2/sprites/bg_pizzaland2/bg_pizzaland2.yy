@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Pizzaland",
+    "path": "folders/Sprites/Unused/Level assets/Pizzaland.yy",
   },
 }

@@ -67,7 +67,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "GOLF (Minigolf)",
+    "path": "folders/Rooms/Levels/World 3/GOLF (Minigolf).yy",
   },
 }

@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Warps",
-    "path": "folders/Objects/Room Structure/Warps.yy",
+    "name": "PizzaTower_GM2",
+    "path": "PizzaTower_GM2.yyp",
   },
 }

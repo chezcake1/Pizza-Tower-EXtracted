@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Deep-Dish 9",
+    "path": "folders/Sprites/Level assets/Floor 3/Deep-Dish 9.yy",
   },
 }

@@ -185,7 +185,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "UFO",
+    "path": "folders/Rooms/Unused/Levels/UFO.yy",
   },
 }

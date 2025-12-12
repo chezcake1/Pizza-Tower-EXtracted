@@ -335,7 +335,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Crust Cove (Plage)",
+    "path": "folders/Rooms/Levels/World 3/Crust Cove (Plage).yy",
   },
 }

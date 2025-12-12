@@ -568,7 +568,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Oh, Shit! (Sewer)",
+    "path": "folders/Rooms/Levels/World 4/Oh, Shit! (Sewer).yy",
   },
 }

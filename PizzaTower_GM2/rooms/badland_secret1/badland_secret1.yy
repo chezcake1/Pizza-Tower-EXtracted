@@ -309,7 +309,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Oregano Desert",
-    "path": "folders/Rooms/Levels/World 2/Oregano Desert.yy",
+    "name": "Oregano Desert (Badland)",
+    "path": "folders/Rooms/Levels/World 2/Oregano Desert (Badland).yy",
   },
 }

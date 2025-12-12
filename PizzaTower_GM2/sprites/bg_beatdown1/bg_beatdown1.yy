@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Pizzaface",
-    "path": "folders/Sprites/Level assets/Bosses/Pizzaface.yy",
+    "name": "Beatdown",
+    "path": "folders/Sprites/Level assets/Bosses/Pizzaface/Beatdown.yy",
   },
 }

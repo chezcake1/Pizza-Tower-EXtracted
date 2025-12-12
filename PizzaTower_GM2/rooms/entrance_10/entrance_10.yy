@@ -143,7 +143,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "John Gutter",
-    "path": "folders/Rooms/Levels/World 1/John Gutter.yy",
+    "name": "John Gutter (Entrance)",
+    "path": "folders/Rooms/Levels/World 1/John Gutter (Entrance).yy",
   },
 }

@@ -269,7 +269,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "The Crumbling Tower of Pizza (Exit)",
+    "path": "folders/Rooms/Levels/World 5/The Crumbling Tower of Pizza (Exit).yy",
   },
 }

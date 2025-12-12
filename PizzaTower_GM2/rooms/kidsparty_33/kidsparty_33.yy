@@ -174,7 +174,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Kidsparty (2021)",
+    "path": "folders/Rooms/Unused/Levels/Kidsparty (2021).yy",
   },
 }

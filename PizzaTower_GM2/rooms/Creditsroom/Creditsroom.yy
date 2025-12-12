@@ -67,7 +67,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Important",
-    "path": "folders/Rooms/Important.yy",
+    "name": "Cutscenes",
+    "path": "folders/Rooms/Cutscenes.yy",
   },
 }

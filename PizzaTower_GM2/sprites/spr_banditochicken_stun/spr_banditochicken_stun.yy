@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bandito Chicken",
+    "path": "folders/Sprites/Room structure/Baddies/Bandito Chicken.yy",
   },
 }

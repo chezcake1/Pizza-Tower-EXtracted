@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Unused",
+    "path": "folders/Sprites/Level assets/Floor 2/Oregano Desert/Unused.yy",
   },
 }

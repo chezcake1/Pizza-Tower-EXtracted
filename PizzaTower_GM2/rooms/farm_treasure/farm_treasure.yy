@@ -67,7 +67,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Fun Farm",
-    "path": "folders/Rooms/Levels/World 2/Fun Farm.yy",
+    "name": "Fun Farm (Farm)",
+    "path": "folders/Rooms/Levels/World 2/Fun Farm (Farm).yy",
   },
 }

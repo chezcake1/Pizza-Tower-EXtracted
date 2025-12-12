@@ -74,7 +74,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "The Noise",
-    "path": "folders/Sprites/Level assets/Bosses/The Noise.yy",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Level assets/Bosses/The Noise/Backgrounds.yy",
   },
 }

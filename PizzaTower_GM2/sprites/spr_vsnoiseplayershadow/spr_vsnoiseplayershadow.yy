@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Intro",
-    "path": "folders/Sprites/Level assets/Bosses/Intro.yy",
+    "name": "Boss intro",
+    "path": "folders/Sprites/Cutscenes/Boss intro.yy",
   },
 }

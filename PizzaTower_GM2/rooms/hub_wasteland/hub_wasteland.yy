@@ -193,7 +193,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Rework Build",
+    "path": "folders/Rooms/Unused/Hub/Rework Build.yy",
   },
 }

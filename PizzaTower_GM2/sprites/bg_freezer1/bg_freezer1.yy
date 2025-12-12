@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Refrigerator-Refrigerador-Freezerator",
+    "path": "folders/Sprites/Level assets/Floor 4/Refrigerator-Refrigerador-Freezerator.yy",
   },
 }

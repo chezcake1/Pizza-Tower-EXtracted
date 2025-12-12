@@ -158,7 +158,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Don't Make A Sound",
+    "path": "folders/Sprites/Level assets/Floor 5/Don't Make A Sound.yy",
   },
 }

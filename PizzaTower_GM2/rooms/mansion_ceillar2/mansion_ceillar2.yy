@@ -105,7 +105,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Mansion (2021)",
+    "path": "folders/Rooms/Unused/Levels/Mansion (2021).yy",
   },
 }

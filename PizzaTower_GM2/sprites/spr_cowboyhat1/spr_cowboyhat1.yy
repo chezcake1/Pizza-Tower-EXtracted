@@ -81,6 +81,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Cowboy Tasks",
-    "path": "folders/Sprites/Unused/Demos/SAGE 2019/Cowboy Tasks.yy",
+    "path": "folders/Sprites/Unused/Demo-specific/SAGE 2019/Cowboy Tasks.yy",
   },
 }

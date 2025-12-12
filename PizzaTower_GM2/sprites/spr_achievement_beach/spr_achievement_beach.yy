@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Chef Tasks",
+    "path": "folders/Sprites/Room structure/Level-specific/Tower/Chef Tasks.yy",
   },
 }

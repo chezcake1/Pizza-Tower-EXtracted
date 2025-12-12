@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Crust Cove",
+    "path": "folders/Sprites/Level assets/Floor 3/Crust Cove.yy",
   },
 }

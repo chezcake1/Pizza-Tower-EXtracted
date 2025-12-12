@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "The Pig City",
+    "path": "folders/Sprites/Level assets/Floor 4/The Pig City.yy",
   },
 }

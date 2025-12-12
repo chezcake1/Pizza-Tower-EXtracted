@@ -207,7 +207,7 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Refrigerator-Refrigerador-Freezerator (Freezer)",
+    "path": "folders/Rooms/Levels/World 4/Refrigerator-Refrigerador-Freezerator (Freezer).yy",
   },
 }

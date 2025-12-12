@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Gnome Forest",
+    "path": "folders/Sprites/Level assets/Floor 3/Gnome Forest.yy",
   },
 }
