@@ -955,7 +955,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Floor 1",
-    "path": "folders/Tile Sets/Floor 1.yy",
+    "name": "Tower",
+    "path": "folders/Tilesets/Tower.yy",
   },
 }

@@ -1043,7 +1043,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Fast Food Saloon",
-    "path": "folders/Tile Sets/Floor 2/Fast Food Saloon.yy",
+    "name": "Fastfood Saloon",
+    "path": "folders/Tilesets/World 2/Fastfood Saloon.yy",
   },
 }

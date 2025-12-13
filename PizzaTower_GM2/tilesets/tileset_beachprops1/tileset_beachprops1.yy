@@ -265,7 +265,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Crust Cove",
-    "path": "folders/Tile Sets/Floor 3/Crust Cove.yy",
+    "name": "Beach",
+    "path": "folders/Tilesets/Unused/Beach.yy",
   },
 }

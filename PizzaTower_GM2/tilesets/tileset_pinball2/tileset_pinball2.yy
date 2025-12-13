@@ -273,7 +273,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Pinball",
+    "path": "folders/Tilesets/Unused/Pinball.yy",
   },
 }

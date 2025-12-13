@@ -45,7 +45,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Deep-Dish 9",
+    "path": "folders/Tilesets/World 3/Deep-Dish 9.yy",
   },
 }

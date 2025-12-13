@@ -855,6 +855,6 @@
   },
   "parent": {
     "name": "Peppibot Factory",
-    "path": "folders/Tile Sets/Floor 4/Peppibot Factory.yy",
+    "path": "folders/Tilesets/World 4/Peppibot Factory.yy",
   },
 }

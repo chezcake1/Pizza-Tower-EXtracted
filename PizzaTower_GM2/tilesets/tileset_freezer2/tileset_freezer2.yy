@@ -855,7 +855,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "R-R-Freezerator",
-    "path": "folders/Tile Sets/Floor 4/R-R-Freezerator.yy",
+    "name": "Refrigerator-Refrigerador-Freezerator",
+    "path": "folders/Tilesets/World 4/Refrigerator-Refrigerador-Freezerator.yy",
   },
 }

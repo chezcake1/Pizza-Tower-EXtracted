@@ -100,7 +100,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Firemouth",
+    "path": "folders/Sprites/Player/Characters/Peppino/Transformations/Firemouth.yy",
   },
 }

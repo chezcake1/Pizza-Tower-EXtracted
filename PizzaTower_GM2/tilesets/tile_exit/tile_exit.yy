@@ -1355,7 +1355,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "The Crumbling Tower Of Pizza",
-    "path": "folders/Tile Sets/Floor 5/The Crumbling Tower Of Pizza.yy",
+    "name": "The Crumbling Tower of Pizza",
+    "path": "folders/Tilesets/World 5/The Crumbling Tower of Pizza.yy",
   },
 }

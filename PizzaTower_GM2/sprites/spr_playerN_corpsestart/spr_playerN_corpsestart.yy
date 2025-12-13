@@ -84,7 +84,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Corpse",
+    "path": "folders/Sprites/Player/Characters/The Noise/Transformations/Corpse.yy",
   },
 }

@@ -131,7 +131,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Kung Fu",
+    "path": "folders/Tilesets/Unused/Kung Fu.yy",
   },
 }

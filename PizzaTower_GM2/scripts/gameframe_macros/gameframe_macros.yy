@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "Gameframe",
-    "path": "folders/Scripts/Gameframe.yy",
+    "path": "folders/Scripts/Systems/Gameframe.yy",
   },
 }

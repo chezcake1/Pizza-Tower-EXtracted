@@ -883,7 +883,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Oh Shit!",
-    "path": "folders/Tile Sets/Floor 4/Oh Shit!.yy",
+    "name": "Oh, Shit!",
+    "path": "folders/Tilesets/World 4/Oh, Shit!.yy",
   },
 }

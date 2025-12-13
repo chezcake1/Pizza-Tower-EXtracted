@@ -246,6 +246,6 @@
   },
   "parent": {
     "name": "Wasteyard",
-    "path": "folders/Tile Sets/Floor 2/Wasteyard.yy",
+    "path": "folders/Tilesets/World 2/Wasteyard.yy",
   },
 }

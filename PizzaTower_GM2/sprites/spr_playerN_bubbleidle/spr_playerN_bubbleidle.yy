@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bubble",
+    "path": "folders/Sprites/Player/Characters/The Noise/Transformations/Bubble.yy",
   },
 }

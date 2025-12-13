@@ -1556,6 +1556,6 @@
   },
   "parent": {
     "name": "Don't Make A Sound",
-    "path": "folders/Tile Sets/Floor 5/Don't Make A Sound.yy",
+    "path": "folders/Tilesets/World 5/Don't Make A Sound.yy",
   },
 }

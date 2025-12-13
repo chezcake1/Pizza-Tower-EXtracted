@@ -100,6 +100,6 @@
   },
   "parent": {
     "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "path": "folders/Tilesets/Unused.yy",
   },
 }

@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "instance",
-    "path": "folders/Scripts/Compatibility/instance.yy",
+    "name": "Utility",
+    "path": "folders/Scripts/Utility.yy",
   },
 }

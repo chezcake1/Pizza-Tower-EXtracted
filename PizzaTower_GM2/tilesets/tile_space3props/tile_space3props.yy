@@ -936,6 +936,6 @@
   },
   "parent": {
     "name": "Deep-Dish 9",
-    "path": "folders/Tile Sets/Floor 3/Deep-Dish 9.yy",
+    "path": "folders/Tilesets/World 3/Deep-Dish 9.yy",
   },
 }

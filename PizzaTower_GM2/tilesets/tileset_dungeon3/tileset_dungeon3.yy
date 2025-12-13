@@ -1486,6 +1486,6 @@
   },
   "parent": {
     "name": "Bloodsauce Dungeon",
-    "path": "folders/Tile Sets/Floor 1/Bloodsauce Dungeon.yy",
+    "path": "folders/Tilesets/World 1/Bloodsauce Dungeon.yy",
   },
 }

@@ -1068,6 +1068,6 @@
   },
   "parent": {
     "name": "GOLF",
-    "path": "folders/Tile Sets/Floor 3/GOLF.yy",
+    "path": "folders/Tilesets/World 3/GOLF.yy",
   },
 }

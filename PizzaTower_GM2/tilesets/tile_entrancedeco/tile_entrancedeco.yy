@@ -736,6 +736,6 @@
   },
   "parent": {
     "name": "John Gutter",
-    "path": "folders/Tile Sets/Floor 1/John Gutter.yy",
+    "path": "folders/Tilesets/World 1/John Gutter.yy",
   },
 }

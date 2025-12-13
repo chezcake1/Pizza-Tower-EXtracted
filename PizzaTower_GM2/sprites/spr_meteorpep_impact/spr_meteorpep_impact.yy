@@ -104,7 +104,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Meteor",
+    "path": "folders/Sprites/Player/Characters/Peppino/Transformations/Meteor.yy",
   },
 }

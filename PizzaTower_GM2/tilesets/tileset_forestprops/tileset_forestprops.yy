@@ -225,7 +225,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Gnome Forest",
+    "path": "folders/Tilesets/World 3/Gnome Forest.yy",
   },
 }

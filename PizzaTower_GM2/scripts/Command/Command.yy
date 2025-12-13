@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Utility",
-    "path": "folders/Scripts/Utility.yy",
+    "name": "Editor",
+    "path": "folders/Scripts/Systems/Editor.yy",
   },
 }

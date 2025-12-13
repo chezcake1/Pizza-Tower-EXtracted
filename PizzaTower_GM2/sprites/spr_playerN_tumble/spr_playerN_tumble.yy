@@ -98,7 +98,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Tumble",
+    "path": "folders/Sprites/Player/Characters/The Noise/Transformations/Tumble.yy",
   },
 }

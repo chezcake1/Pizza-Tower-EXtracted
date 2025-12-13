@@ -756,6 +756,6 @@
   },
   "parent": {
     "name": "Crust Cove",
-    "path": "folders/Tile Sets/Floor 3/Crust Cove.yy",
+    "path": "folders/Tilesets/World 3/Crust Cove.yy",
   },
 }

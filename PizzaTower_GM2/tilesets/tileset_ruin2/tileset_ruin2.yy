@@ -666,6 +666,6 @@
   },
   "parent": {
     "name": "Ancient Cheese",
-    "path": "folders/Tile Sets/Floor 1/Ancient Cheese.yy",
+    "path": "folders/Tilesets/World 1/Ancient Cheese.yy",
   },
 }

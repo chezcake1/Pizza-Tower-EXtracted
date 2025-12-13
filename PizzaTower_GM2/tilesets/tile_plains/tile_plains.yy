@@ -225,7 +225,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Mansion",
+    "path": "folders/Tilesets/Unused/Mansion.yy",
   },
 }

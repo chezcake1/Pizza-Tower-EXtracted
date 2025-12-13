@@ -90,7 +90,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Fireass",
+    "path": "folders/Sprites/Player/Characters/The Noise/Transformations/Fireass.yy",
   },
 }

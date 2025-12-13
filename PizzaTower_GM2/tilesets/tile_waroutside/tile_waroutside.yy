@@ -666,6 +666,6 @@
   },
   "parent": {
     "name": "WAR",
-    "path": "folders/Tile Sets/Floor 5/WAR.yy",
+    "path": "folders/Tilesets/World 5/WAR.yy",
   },
 }

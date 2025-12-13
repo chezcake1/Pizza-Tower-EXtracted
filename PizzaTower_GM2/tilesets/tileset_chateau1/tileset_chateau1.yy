@@ -861,6 +861,6 @@
   },
   "parent": {
     "name": "Pizzascare",
-    "path": "folders/Tile Sets/Floor 5/Pizzascare.yy",
+    "path": "folders/Tilesets/World 5/Pizzascare.yy",
   },
 }

@@ -576,6 +576,6 @@
   },
   "parent": {
     "name": "Pizzascape",
-    "path": "folders/Tile Sets/Floor 1/Pizzascape.yy",
+    "path": "folders/Tilesets/World 1/Pizzascape.yy",
   },
 }

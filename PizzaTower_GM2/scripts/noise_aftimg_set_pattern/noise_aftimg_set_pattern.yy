@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Afterimage",
-    "path": "folders/Scripts/Afterimage.yy",
+    "name": "Palette Swapper",
+    "path": "folders/Scripts/Systems/Palette Swapper.yy",
   },
 }

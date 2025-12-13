@@ -478,6 +478,6 @@
   },
   "parent": {
     "name": "Fun Farm",
-    "path": "folders/Tile Sets/Floor 2/Fun Farm.yy",
+    "path": "folders/Tilesets/World 2/Fun Farm.yy",
   },
 }

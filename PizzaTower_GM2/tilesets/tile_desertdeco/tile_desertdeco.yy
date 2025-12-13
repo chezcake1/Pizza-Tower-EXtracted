@@ -2028,6 +2028,6 @@
   },
   "parent": {
     "name": "Oregano Desert",
-    "path": "folders/Tile Sets/Floor 2/Oregano Desert.yy",
+    "path": "folders/Tilesets/World 2/Oregano Desert.yy",
   },
 }

@@ -215,7 +215,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Unused",
-    "path": "folders/Tile Sets/Unused.yy",
+    "name": "Strongcold",
+    "path": "folders/Tilesets/Unused/Strongcold.yy",
   },
 }
