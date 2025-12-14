@@ -128,7 +128,7 @@
   "canGenerateBitmap": true,
   "maintainGms1Font": true,
   "parent": {
-    "name": "Unreferenced",
-    "path": "folders/Fonts/Unused/Unreferenced.yy",
+    "name": "Fonts",
+    "path": "folders/Fonts.yy",
   },
 }

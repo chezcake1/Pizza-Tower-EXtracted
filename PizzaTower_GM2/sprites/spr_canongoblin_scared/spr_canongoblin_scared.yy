@@ -76,7 +76,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cannon Goblin",
+    "path": "folders/Sprites/Room structure/Baddies/Cannon Goblin.yy",
   },
 }
